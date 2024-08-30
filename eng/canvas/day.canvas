@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"b04e342adee2ad39","type":"text","text":"**Day - дни**","x":-317,"y":-240,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"5f2c242ac04c4f41","type":"text","text":"- **Monday** /ˈmʌndeɪ/ — **понедельник**\n- **Tuesday** /ˈtjuːzdeɪ/ — **вторник**\n- **Wednesday** /ˈwenzdeɪ/ — **среда**\n- **Thursday** /ˈθɜːzdeɪ/ — **четверг**\n- **Friday** /ˈfraɪdeɪ/ — **пятница**\n- **Saturday** /ˈsætədeɪ/ — **суббота**\n- **Sunday** /ˈsʌndeɪ/ — **воскресенье**","x":-380,"y":-141,"width":377,"height":240,"color":"#ffffff"},
+		{"id":"52d6b552c5648ab6","type":"text","text":"spring [sprɪŋ] — весна  \nautumn [‘ɔːtəm] — осень  \nsummer [‘sʌmə] — лето  \nwinter [‘wɪntə] — зима","x":33,"y":-141,"width":260,"height":140,"color":"#ffffff"},
+		{"id":"edfc6dbced0f27e4","type":"text","text":"**Twelve months - двенадцать месяцев**","x":385,"y":-240,"width":351,"height":60,"color":"#ffffff"},
+		{"id":"dc3d3ddcd1d568d0","type":"text","text":"Winter months (зимние месяцы):  \nDecember [dıʹsembə] (сокращение: Dec.) — декабрь  \nJanuary [‘ʤænju(ə)rɪ] (Jan.) — январь  \nFebruary [‘febru(ə)rɪ] (Feb.) — февраль  \n\nSpring months (весенние месяцы):  \nMarch [mɑːʧ] (Mar.) — март  \nApril [‘eiprɪl] (Apr.) — апрель  \nMay [meɪ] — май\n\nSummer months (летние месяцы):  \nJune [ʤuːn] (Jun.) — июнь  \nJuly [ʤu’laɪ] (Jul.) — июль  \nAugust [‘ɔːgəst] (Aug.) — август\n\nAutumn months (осенние месяцы):  \nSeptember [sep’tembə] (Sept. / Sep.) — сентябрь  \nOctober [ɔk’təubə] (Oct.) — октябрь  \nNovember [nəu’vembə] (Nov.) — ноябрь","x":334,"y":-141,"width":454,"height":492,"color":"#ffffff"},
+		{"id":"e012c2c2158cfb08","type":"text","text":"**time of year - времена года**","x":19,"y":-240,"width":288,"height":60,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"7c6d73bcecbe3843","fromNode":"e012c2c2158cfb08","fromSide":"bottom","toNode":"52d6b552c5648ab6","toSide":"top"},
+		{"id":"f28fac2536aa7652","fromNode":"b04e342adee2ad39","fromSide":"bottom","toNode":"5f2c242ac04c4f41","toSide":"top"},
+		{"id":"af4bd1c881354b29","fromNode":"edfc6dbced0f27e4","fromSide":"bottom","toNode":"dc3d3ddcd1d568d0","toSide":"top"}
+	]
+}

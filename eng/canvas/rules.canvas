@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f2a04f1bd093ee32","type":"text","text":"**In**:\n\n- Указывает на месяцы, годы, времена года, периоды времени:\n    - \"We met in July.\" (Мы встретились в июле.)\n    - \"He was born in 1990.\" (Он родился в 1990 году.)\n    - \"She likes to ski in winter.\" (Ей нравится кататься на лыжах зимой.)\n- Указывает на местонахождение внутри чего-то:\n    - \"The keys are in the drawer.\" (Ключи в ящике.)","x":-940,"y":-100,"width":500,"height":300,"color":"5"},
+		{"id":"11eafd1a3ae172a1","type":"text","text":"**By**:\n\n- Указывает на агента действия или способ выполнения:\n    - \"The book was written by the author.\" (Книга была написана автором.)\n    - \"We traveled by car.\" (Мы путешествовали на машине.)","x":-940,"y":-450,"width":500,"height":290,"color":"5"},
+		{"id":"be8abcf937bdf853","type":"text","text":"to be","x":-440,"y":380,"width":120,"height":60,"color":"1"},
+		{"id":"7b555dc9a655d960","type":"text","text":"**An**:\n\n- Указывает на конкретное время или момент:\n    - \"The train arrives at 5 PM.\" (Поезд прибывает в 5 вечера.)\n- Указывает на конкретное место:\n    - \"She is at the station.\" (Она на станции.)","x":-320,"y":-100,"width":495,"height":300,"color":"5"},
+		{"id":"5bc77bdcd07e18b9","type":"text","text":"**On**:\n\n- Указывает на дни недели или конкретные даты:\n    - \"The meeting is on Monday.\" (Собрание в понедельник.)\n    - \"Her birthday is on July 4th.\" (Ее день рождения 4 июля.)\n- Указывает на поверхность:\n    - \"The book is on the table.\" (Книга на столе.)","x":-320,"y":-450,"width":500,"height":290,"color":"5"},
+		{"id":"2cf03e1409ce4aa8","type":"text","text":"am\nI","x":-690,"y":520,"width":250,"height":80,"color":"2"},
+		{"id":"85a7a279859c3e06","type":"text","text":"are\nThay\nWe\nYou","x":-320,"y":520,"width":250,"height":120,"color":"2"},
+		{"id":"be177dc3a9945d57","type":"text","text":"is\nShe\nHe\nIt","x":-505,"y":700,"width":250,"height":140,"color":"2"},
+		{"id":"ced6c5750405f6fb","x":-620,"y":960,"width":460,"height":720,"type":"text","text":"- **B** - /b/ (как в слове \"boy\")\n- **C** - /k/ (как в слове \"cat\")\n- **D** - /d/ (как в слове \"dog\")\n- **F** - /f/ (как в слове \"fish\")\n- **G** - /g/ (как в слове \"go\")\n- **H** - /h/ (как в слове \"hat\")\n- **J** - /dʒ/ (как в слове \"jump\")\n- **K** - /k/ (как в слове \"kite\")\n- **L** - /l/ (как в слове \"lion\")\n- **M** - /m/ (как в слове \"man\")\n- **N** - /n/ (как в слове \"nose\")\n- **P** - /p/ (как в слове \"pig\")\n- **Q** - /kw/ (как в слове \"queen\")\n- **R** - /r/ (как в слове \"red\")\n- **S** - /s/ (как в слове \"sun\")\n- **T** - /t/ (как в слове \"top\")\n- **V** - /v/ (как в слове \"van\")\n- **W** - /w/ (как в слове \"water\")\n- **X** - /ks/ (как в слове \"box\")\n- **Y** - /j/ (как в слове \"yes\")\n- **Z** - /z/ (как в слове \"zoo\")\n- **CH** - /tʃ/ (как в слове \"chair\")\n- **SH** - /ʃ/ (как в слове \"ship\")\n- **TH** - /θ/ (как в слове \"thin\") и /ð/ (как в слове \"this\")"},
+		{"id":"3395f405c5d4e8f4","x":-1000,"y":1260,"width":250,"height":60,"type":"text","text":"A"},
+		{"id":"a5612541fb6b0585","x":-1000,"y":1800,"width":250,"height":60,"type":"text","text":"an"},
+		{"id":"6bdd07be5dface55","x":-515,"y":1800,"width":250,"height":60,"type":"text","text":"a, e, i, o, u"}
+	],
+	"edges":[
+		{"id":"b5e76e0f5da40bde","fromNode":"be8abcf937bdf853","fromSide":"left","toNode":"2cf03e1409ce4aa8","toSide":"top"},
+		{"id":"34e32019543781be","fromNode":"be8abcf937bdf853","fromSide":"bottom","toNode":"be177dc3a9945d57","toSide":"top"},
+		{"id":"015513d5f5376a62","fromNode":"be8abcf937bdf853","fromSide":"right","toNode":"85a7a279859c3e06","toSide":"top"},
+		{"id":"0e8c495bb2c1e685","fromNode":"3395f405c5d4e8f4","fromSide":"bottom","toNode":"ced6c5750405f6fb","toSide":"left"},
+		{"id":"cc7d35bd1415d49b","fromNode":"a5612541fb6b0585","fromSide":"bottom","toNode":"6bdd07be5dface55","toSide":"left"}
+	]
+}
