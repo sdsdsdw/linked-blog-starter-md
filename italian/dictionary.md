@@ -30,6 +30,3 @@ Roma - Rome
 <<<<<<< HEAD
 <<<<<<< HEAD
 sono - have, i have, 
-[ха ха ха ха]
-
-asdadsdasdasasd
