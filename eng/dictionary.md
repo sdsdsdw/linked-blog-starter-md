@@ -31,7 +31,7 @@ weaker - слабее
 to - чтобы 
 worse - хуже 
 nosy - любопытный
-wanna - хочу
+wanna - хочу / в разговорной речи
 
 Derived - производный
 Explicit - явный
