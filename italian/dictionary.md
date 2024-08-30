@@ -28,4 +28,6 @@ tu - you, you will
 sei - are you
 Roma - Rome
 <<<<<<< HEAD
-sono - have, i have, is
+<<<<<<< HEAD
+sono - have, i have, 
+[ха ха ха ха]
