@@ -30,7 +30,7 @@ has to - должен
 weaker - слабее
 to - чтобы 
 worse - хуже 
-
+nosy - любопытный
 
 
 Derived - производный
