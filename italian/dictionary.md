@@ -27,4 +27,5 @@ me - me, to me, myself
 tu - you, you will
 sei - are you
 Roma - Rome
-sono - have, i have, i s
+sono - have, i have, is
+
