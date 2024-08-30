@@ -2,7 +2,7 @@ exciting - захватывающий
 isn't it? - не так ли?
 getting ready - готовлюсь
 during - во время
-
+before - раньше, прежде, ранее, до
 loudly - громко
 noisily - шумно
 
