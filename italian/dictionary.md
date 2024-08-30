@@ -27,6 +27,4 @@ me - me, to me, myself
 tu - you, you will
 sei - are you
 Roma - Rome
-<<<<<<< HEAD
-<<<<<<< HEAD
-sono - have, i have, 
+sono - have, i have, is
