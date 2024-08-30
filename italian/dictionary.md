@@ -28,3 +28,4 @@ tu - you, you will
 sei - are you
 Roma - Rome
 sono - have, i have, is
+егор лох 
