@@ -27,6 +27,5 @@ me - me, to me, myself
 tu - you, you will
 sei - are you
 Roma - Rome
+<<<<<<< HEAD
 sono - have, i have, is
-
-егор зайка
