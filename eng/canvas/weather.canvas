@@ -7,7 +7,7 @@
 		{"id":"6c9862d1c01023cf","type":"text","text":"### **Climate Discussions:**\n\n- **The climate is tropical.** – Климат тропический.\n- **This area has a dry climate.** – В этом регионе сухой климат.\n- **Global warming is affecting weather patterns.** – Глобальное потепление влияет на погодные условия.","x":-120,"y":1030,"width":522,"height":360,"color":"#000000"},
 		{"id":"37a3513c598b89ed","type":"text","text":"Temperature Descriptions\n\n- **Scorching / Boiling** – очень жарко\n- **Sweltering** – душно и жарко\n- **Mild** – мягкая, комфортная температура\n- **Chilly** – прохладно (легкий холод)\n- **Bitterly cold** – очень холодно\n- **Freezing** – морозно","x":597,"y":640,"width":397,"height":310,"color":"#000000"},
 		{"id":"dfa911b92eae5f00","type":"text","text":"### **Weather-Related Idioms and Expressions:**\n\n- **Under the weather** – плохо себя чувствовать (не по погоде, а в плане здоровья).\n- **Come rain or shine** – что бы ни случилось, при любой погоде.\n- **It’s raining cats and dogs** – идет проливной дождь.\n- **Every cloud has a silver lining** – нет худа без добра.","x":518,"y":1030,"width":530,"height":340,"color":"#000000"},
-		{"id":"2be8da6e77a51a49","type":"text","text":"### **Weather Alerts:**\n\n- **Heatwave** – период сильной жары\n- **Flood warning** – предупреждение о наводнении\n- **Storm warning** – предупреждение о шторме","x":-120,"y":1480,"width":450,"height":310,"color":"#000000"}
+		{"id":"2be8da6e77a51a49","type":"text","text":"### **Weather Alerts:**\n\n- **Heatwave** – период сильной жары\n- **Flood warning** – предупреждение о наводнении\n- **Storm warning** – предупреждение о шторме","x":1110,"y":640,"width":450,"height":310,"color":"#000000"}
 	],
 	"edges":[]
 }
