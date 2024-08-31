@@ -60,7 +60,8 @@ success - успех
 Amusing - занимательный, забаный, смешной
 seems - кажется, похоже
 actually - на самом деле, действительно, фактически
-
+on the other hand - 
+take - 
 
 rethink - 
 apparent - 
