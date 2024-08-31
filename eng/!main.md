@@ -1,4 +1,4 @@
-my [[dictionary eng]]
+my [[dictionaryEng]]
 my [[eng/note|note]]
 
 all [[day.canvas|day]]

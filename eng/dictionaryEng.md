@@ -37,3 +37,7 @@ Derived - производный
 Explicit - явный
 Implicit - не явный
 Conversion - преобразование
+
+
+Although - хотя, если бы даже, несмотря на то, что
+each - каждый

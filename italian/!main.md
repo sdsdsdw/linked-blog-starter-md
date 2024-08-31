@@ -1,4 +1,4 @@
-[[dictionary it]]
+[[dictionaryIt]]
 
 all [[food]]
-[[dictionary it|dictionary it]]
+[[dictionaryIt|dictionaryIt]]

@@ -1,2 +1,2 @@
-[[dictionary du|dictionary du]]
+[[dictionaryDu|dictionaryDu]]
 [[du/note|note]]
