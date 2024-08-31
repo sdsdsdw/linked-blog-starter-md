@@ -32,7 +32,7 @@ to - чтобы
 worse - хуже 
 nosy - любопытный
 wanna - хочу / в разговорной речи
-
+probably - вероятно
 Derived - производный
 Explicit - явный
 Implicit - не явный
