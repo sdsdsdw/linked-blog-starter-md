@@ -55,3 +55,5 @@ has made his competitors envious - вызвал зависть у конкуре
 youngest - самый молодой
 achieve - достигать, добиваться
 anyone - любой, никто, каждый, всякий
+celebrates - празднует
+success - успех
