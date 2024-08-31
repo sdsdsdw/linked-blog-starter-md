@@ -54,11 +54,14 @@ cuisine - кухня
 has made his competitors envious - вызвал зависть у конкурентов
 youngest - самый молодой
 achieve - достигать, добиваться
-anyone - любой, никто, каждый, всякий
+anyone - любой, никто, каждый, всякий, кто-угодно кто-либо, кто-нибудь
 celebrates - празднует
 success - успех
 Amusing - занимательный, забаный, смешной
-seems - похоже 
+seems - кажется, похоже
+actually - на самом деле, действительно, фактически
 
 
+rethink - 
+apparent - 
 means - означает
