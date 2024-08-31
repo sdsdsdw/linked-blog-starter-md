@@ -1,4 +1,4 @@
-[[italian/dictionary]]
+[[dictionary it]]
 
 all [[food]]
-[[italian/dictionary|dictionary]]
+[[dictionary it|dictionary it]]
