@@ -39,4 +39,5 @@ Implicit - не явный
 Conversion - преобразование
 icebreaker - начало разговора
 going to massage - отправить сообщение
+going to ask - попросить
 
