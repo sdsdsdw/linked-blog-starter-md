@@ -40,4 +40,5 @@ Conversion - преобразование
 icebreaker - начало разговора
 going to massage - отправить сообщение
 going to ask - попросить
-
+trunk - багажник
+past - мимо
