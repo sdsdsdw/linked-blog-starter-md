@@ -42,3 +42,4 @@ going to massage - отправить сообщение
 going to ask - попросить
 trunk - багажник
 past - мимо
+borrowed - одолжил
