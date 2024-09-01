@@ -24,3 +24,8 @@ rethink -
 apparent - 
 First of all - Во-первых
 means - означает
+highly - 
+developed - 
+sense - 
+taste - 
+smell - 
