@@ -37,5 +37,5 @@ Derived - производный
 Explicit - явный
 Implicit - не явный
 Conversion - преобразование
+icebreaker - начало разговора
 
----
