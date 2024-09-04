@@ -30,3 +30,6 @@ il - the
 dove' - where
 qui - here
 questa - this
+grazie mille - thank you very much
+signora - ma'am
+signore - sir
