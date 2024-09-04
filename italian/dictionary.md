@@ -33,3 +33,5 @@ questa - this
 grazie mille - thank you very much
 signora - ma'am
 signore - sir
+
+с'è - there's
