@@ -5,3 +5,4 @@ pizzeria - pizzeria / пицерия
 chiesa - church / церковь
 negozio - store / магазин
 teatro - theater / театр
+banca - bank / банк
