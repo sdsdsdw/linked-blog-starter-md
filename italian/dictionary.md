@@ -33,5 +33,17 @@ questa - this
 grazie mille - thank you very much
 signora - ma'am
 signore - sir
-Questo - this / этот
-с'è - there's
+questo - this / этот
+с'è - there's / есть
+mie - my / мой
+chiavi - keys / ключи
+chiave - key / ключ
+tue - your / твой
+tavolo - table / стол
+mi dispiace - sorry / извини
+stanca - tired / устал
+
+
+buon giorno - good morning / доброе утро
+buon pomeriggio - good afternoon / добрый день
+buonasera - good evening / добрый вечер
