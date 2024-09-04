@@ -7,3 +7,6 @@ all [[rules.canvas|rules]]
 all [[weather.canvas|weather]]
 all [[!time]]
 all [[numbers]]
+
+
+[[list]]
