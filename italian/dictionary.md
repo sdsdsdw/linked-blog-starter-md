@@ -26,3 +26,7 @@ lui - he
 lei - she, her, do you
 una - one, un, a
 or - o
+il - the 
+dove' - where
+qui - here
+questa - this

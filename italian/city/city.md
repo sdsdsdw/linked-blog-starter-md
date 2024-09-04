@@ -1,0 +1,2 @@
+bar - cafe
+farmacia - pharmacy
