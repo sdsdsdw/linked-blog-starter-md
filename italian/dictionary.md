@@ -42,6 +42,9 @@ tue - your / твой
 tavolo - table / стол
 mi dispiace - sorry / извини
 stanca - tired / устал
+vicino - neighbor / сосед
+alto - tall / высокий
+
 
 
 buon giorno - good morning / доброе утро
