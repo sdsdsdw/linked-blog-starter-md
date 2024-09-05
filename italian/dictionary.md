@@ -42,7 +42,7 @@ tue - your / твой
 tavolo - table / стол
 mi dispiace - sorry / извини
 stanca - tired / устал
-vicino - neighbor / сосед
+vicino / vicina  - neighbor / сосед
 alto - tall / высокий
 hai - do you have / you have / у тебя есть
 ragazzo - boyfriend / парень
