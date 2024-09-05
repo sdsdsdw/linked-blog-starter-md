@@ -44,7 +44,8 @@ mi dispiace - sorry / извини
 stanca - tired / устал
 vicino - neighbor / сосед
 alto - tall / высокий
-
+hai - do you have / у тебя есть
+ragazzo - boyfriend / парень
 
 
 buon giorno - good morning / доброе утро
