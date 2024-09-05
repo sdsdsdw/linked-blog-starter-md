@@ -7,3 +7,4 @@ negozio - store / магазин
 teatro - theater / театр
 banca - bank / банк
 bagno - restroom / уборная
+ristorante - restaurant / ресторан
