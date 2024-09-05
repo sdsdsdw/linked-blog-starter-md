@@ -5,3 +5,4 @@ zucchero - sugar
 gelato - ice cream
 cornetto - croissant
 uovu - egg
+pomodoro - tomato
