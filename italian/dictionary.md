@@ -46,7 +46,9 @@ vicino - neighbor / сосед
 alto - tall / высокий
 hai - do you have / you have / у тебя есть
 ragazzo - boyfriend / парень
-
+ragazza - girlfriend / девушка
+timida - shy / застенчевый
+ho - have
 
 buon giorno - good morning / доброе утро
 buon pomeriggio - good afternoon / добрый день
