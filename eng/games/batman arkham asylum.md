@@ -1,0 +1,1 @@
+when his parents were gunned down in front of him, young 
