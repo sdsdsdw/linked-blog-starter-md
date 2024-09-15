@@ -53,3 +53,4 @@ spell - называть по буквам
 blackboards - меловая доска
 whiteboard - маркерная доска
 i guess - наверное, на самом деле
+arrives - приедут
