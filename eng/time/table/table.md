@@ -1,6 +1,6 @@
 | present | past | future |
 | ------- | ---- | ------ |
-| asdasd  | took |        |
+| take    | took | took   |
 |         |      |        |
 |         |      |        |
 |         |      |        |
