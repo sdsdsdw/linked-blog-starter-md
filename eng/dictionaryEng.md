@@ -54,3 +54,4 @@ blackboards - меловая доска
 whiteboard - маркерная доска
 i guess - наверное, на самом деле
 arrives - приедут
+going to have -  устроить
