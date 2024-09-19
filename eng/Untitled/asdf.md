@@ -1,0 +1,2 @@
+kilometer - километры
+mile - мили
