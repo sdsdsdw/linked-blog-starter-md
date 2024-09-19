@@ -67,3 +67,4 @@ opposite, across from - напротив
 almost - почти 
 cathedral - собор
 at least - как минимум
+away - отсюда
