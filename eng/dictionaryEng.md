@@ -68,3 +68,4 @@ almost - почти
 cathedral - собор
 at least - как минимум
 away - отсюда
+cross - перейди
