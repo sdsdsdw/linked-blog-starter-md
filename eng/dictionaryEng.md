@@ -62,3 +62,4 @@ as - такой же, как
 how many - сколько
 skyscrapers - небоскребов
 by the - рядом с 
+along - вдоль
