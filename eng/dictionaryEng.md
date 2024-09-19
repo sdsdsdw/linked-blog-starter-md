@@ -55,3 +55,10 @@ whiteboard - маркерная доска
 i guess - наверное, на самом деле
 arrives - приедут
 going to have -  устроить
+
+avenue - проспект
+modern - современное
+as - такой же, как
+how many - сколько
+skyscrapers - небоскребов
+by the - рядом с 
