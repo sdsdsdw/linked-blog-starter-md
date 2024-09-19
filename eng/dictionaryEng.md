@@ -65,3 +65,4 @@ along - вдоль
 exactly - именно
 opposite, across from - напротив
 almost - почти 
+cathedral - собор
