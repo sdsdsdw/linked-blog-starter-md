@@ -71,3 +71,5 @@ away - отсюда
 cross - перейди
 branch, line - ветка
 sightseeing - осмотр достопримечательностей
+sure - уверен
+thought - думал
