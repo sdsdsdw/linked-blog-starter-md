@@ -19,3 +19,6 @@
 гулять, погулять
 
 it'll be - `это` будет
+
+what's the weather like
+какая погода
