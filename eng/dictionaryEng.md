@@ -73,3 +73,4 @@ branch, line - ветка
 sightseeing - осмотр достопримечательностей
 sure - уверен
 thought - думал
+skyscraper - небоскреб
