@@ -74,4 +74,4 @@ sightseeing - осмотр достопримечательностей
 sure - уверен
 thought - думал
 skyscraper - небоскреб
-worries - 
+worries - переживает
