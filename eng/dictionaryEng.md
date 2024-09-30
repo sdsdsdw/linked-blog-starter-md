@@ -80,3 +80,7 @@ once - однажды
 couldn't - не могли, не смог
 sense of humor - чувство юмора
 snowboarding - кататься на сноуборде
+cried - плакал
+tried - пробовал 
+spent - проводили, проводила, провели
+ex
