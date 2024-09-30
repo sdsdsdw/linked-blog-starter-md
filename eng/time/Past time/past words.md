@@ -1,6 +1,6 @@
 sang - пел
 sent - послали
-weren `t - не были
+weren't - не были
 bought - купил
 wrote - написал
 rare - редкие
