@@ -22,3 +22,7 @@ it'll be - `это` будет
 
 what's the weather like
 какая погода
+
+Maksim can't ==to== drive, but it's not ==a== problem
+
+I can't to walk, but i don't want to go in Anna's home yet
