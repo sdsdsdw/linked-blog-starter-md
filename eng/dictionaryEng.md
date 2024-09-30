@@ -75,3 +75,5 @@ sure - уверен
 thought - думал
 skyscraper - небоскреб
 worries - переживает
+
+once - однажды 
