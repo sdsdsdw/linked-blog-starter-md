@@ -28,4 +28,4 @@ Maksim can't ==to== drive, but it's not ==a== problem
 ==I can't to walk, but i don't want to go in Anna's home yet==
 I couldn't walk yet but, I wanted to go to Anna's house
 
-We couldn't to understand each other, when we were kids
+We couldn't ==to== understand each other, when we were kids
