@@ -77,3 +77,4 @@ skyscraper - небоскреб
 worries - переживает
 
 once - однажды 
+couldn't - не могли, не смог
