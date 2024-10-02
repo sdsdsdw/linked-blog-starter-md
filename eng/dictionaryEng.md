@@ -87,3 +87,4 @@ ex - бывший
 unfortunately - к сожалению
 upset - расстроен
 grew up - выросли
+takes out - достать, достает
