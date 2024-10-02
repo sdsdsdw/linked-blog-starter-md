@@ -85,6 +85,7 @@ tried - пробовал
 spent - проводили, проводила, провели
 ex - бывший
 unfortunately - к сожалению
+unfortunate - неудачный
 upset - расстроен
 grew up - выросли
 takes out - достать, достает
