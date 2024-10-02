@@ -83,4 +83,5 @@ snowboarding - кататься на сноуборде
 cried - плакал
 tried - пробовал 
 spent - проводили, проводила, провели
-ex
+ex - бывший
+unfortunately - к сожалению
