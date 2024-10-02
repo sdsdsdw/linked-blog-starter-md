@@ -77,7 +77,7 @@ skyscraper - небоскреб
 worries - переживает
 worries - переживал, переживала, волнуюсь
 once - однажды 
-couldn't - не могли, не смог
+couldn't - не могли, не смог, не умели
 sense of humor - чувство юмора
 snowboarding - кататься на сноуборде
 cried - плакал
@@ -86,3 +86,4 @@ spent - проводили, проводила, провели
 ex - бывший
 unfortunately - к сожалению
 upset - расстроен
+grew up - выросли
