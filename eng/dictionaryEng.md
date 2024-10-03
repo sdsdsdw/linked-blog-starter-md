@@ -5,7 +5,6 @@ during - во время
 before - раньше, прежде, ранее, до
 loudly - громко
 noisily - шумно
-
 i **got** sleep - я поспал
 i **got** hungry - я проголодался
 i **got** go - я пошел
