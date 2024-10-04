@@ -29,3 +29,7 @@ Maksim can't ==to== drive, but it's not ==a== problem
 I couldn't walk yet but, I wanted to go to Anna's house
 
 We couldn't ==to== understand each other, when we were kids
+
+---
+We are missing a couple of people.
+We're a couple of people short.
