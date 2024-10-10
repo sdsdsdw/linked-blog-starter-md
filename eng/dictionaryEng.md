@@ -90,3 +90,4 @@ grew up - выросли
 takes out - достать, достает
 lay down - лечь
 lie down - ложаться
+got on - сел
